@@ -4,7 +4,7 @@ A complete simulator and predictor for the FIFA World Cup 2026, powered by the G
 
 ## Important
 
-**Every bit of this code was entirely vibe-coded. This isn't intended to be a high-end simulator that gives me the probabilities of each team reaching a certain goal. I just wanted to know what Gemini thinks about what is going to happen at the 2026 FIFA World Cup. Therefore, DON'T TAKE ANY OF THIS SERIOUSLY.**
+**Every bit of this code was entirely vibe-coded. This isn't intended to be a serious statistics-based simulator running (Monte Carlo or anything like that) that gives me the probabilities of each team reaching a certain goal. I just wanted to know what Gemini thinks about what is going to happen at the 2026 FIFA World Cup. Therefore, DON'T TAKE ANY OF THIS SERIOUSLY.**
 
 ## 🚀 Key Features
 
