@@ -1,6 +1,10 @@
-# FIFA World Cup 2026 Prediction System
+# FIFA World Cup 2026 Prediction with Gemini
 
 A complete simulator and predictor for the FIFA World Cup 2026, powered by the Gemini API (using `gemini-3.1-pro-preview` with long-horizon reasoning) and rendered in a visually stunning, interactive dark-themed Plotly Dash dashboard.
+
+## Important
+
+**Every bit of this code was entirely vibe-coded. This isn't intended to be a high-end simulator that gives me the probabilities of each team reaching a certain goal. I just wanted to know what Gemini thinks about what is going to happen at the 2026 FIFA World Cup. Therefore, DON'T TAKE ANY OF THIS SERIOUSLY.**
 
 ## 🚀 Key Features
 
