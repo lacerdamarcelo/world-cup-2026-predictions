@@ -1,0 +1,520 @@
+- id: 1
+  stage: group
+  group: A
+  team1: Mexico
+  team2: South Africa
+- id: 2
+  stage: group
+  group: A
+  team1: South Korea
+  team2: Czech Republic
+- id: 3
+  stage: group
+  group: B
+  team1: Canada
+  team2: Bosnia and Herzegovina
+- id: 4
+  stage: group
+  group: B
+  team1: Qatar
+  team2: Switzerland
+- id: 5
+  stage: group
+  group: C
+  team1: Brazil
+  team2: Morocco
+- id: 6
+  stage: group
+  group: C
+  team1: Haiti
+  team2: Scotland
+- id: 7
+  stage: group
+  group: D
+  team1: United States
+  team2: Paraguay
+- id: 8
+  stage: group
+  group: D
+  team1: Australia
+  team2: Turkey
+- id: 9
+  stage: group
+  group: E
+  team1: Germany
+  team2: "Cura\xE7ao"
+- id: 10
+  stage: group
+  group: E
+  team1: Ivory Coast
+  team2: Ecuador
+- id: 11
+  stage: group
+  group: F
+  team1: Netherlands
+  team2: Japan
+- id: 12
+  stage: group
+  group: F
+  team1: Sweden
+  team2: Tunisia
+- id: 13
+  stage: group
+  group: G
+  team1: Belgium
+  team2: Egypt
+- id: 14
+  stage: group
+  group: G
+  team1: Iran
+  team2: New Zealand
+- id: 15
+  stage: group
+  group: H
+  team1: Spain
+  team2: Uruguay
+- id: 16
+  stage: group
+  group: H
+  team1: Saudi Arabia
+  team2: Cape Verde
+- id: 17
+  stage: group
+  group: I
+  team1: France
+  team2: Senegal
+- id: 18
+  stage: group
+  group: I
+  team1: Norway
+  team2: Iraq
+- id: 19
+  stage: group
+  group: J
+  team1: Argentina
+  team2: Austria
+- id: 20
+  stage: group
+  group: J
+  team1: Algeria
+  team2: Jordan
+- id: 21
+  stage: group
+  group: K
+  team1: Portugal
+  team2: Colombia
+- id: 22
+  stage: group
+  group: K
+  team1: Uzbekistan
+  team2: DR Congo
+- id: 23
+  stage: group
+  group: L
+  team1: England
+  team2: Croatia
+- id: 24
+  stage: group
+  group: L
+  team1: Ghana
+  team2: Panama
+- id: 25
+  stage: group
+  group: A
+  team1: Mexico
+  team2: South Korea
+- id: 26
+  stage: group
+  group: A
+  team1: Czech Republic
+  team2: South Africa
+- id: 27
+  stage: group
+  group: B
+  team1: Canada
+  team2: Qatar
+- id: 28
+  stage: group
+  group: B
+  team1: Switzerland
+  team2: Bosnia and Herzegovina
+- id: 29
+  stage: group
+  group: C
+  team1: Brazil
+  team2: Haiti
+- id: 30
+  stage: group
+  group: C
+  team1: Scotland
+  team2: Morocco
+- id: 31
+  stage: group
+  group: D
+  team1: United States
+  team2: Australia
+- id: 32
+  stage: group
+  group: D
+  team1: Turkey
+  team2: Paraguay
+- id: 33
+  stage: group
+  group: E
+  team1: Germany
+  team2: Ivory Coast
+- id: 34
+  stage: group
+  group: E
+  team1: Ecuador
+  team2: "Cura\xE7ao"
+- id: 35
+  stage: group
+  group: F
+  team1: Netherlands
+  team2: Sweden
+- id: 36
+  stage: group
+  group: F
+  team1: Tunisia
+  team2: Japan
+- id: 37
+  stage: group
+  group: G
+  team1: Belgium
+  team2: Iran
+- id: 38
+  stage: group
+  group: G
+  team1: New Zealand
+  team2: Egypt
+- id: 39
+  stage: group
+  group: H
+  team1: Spain
+  team2: Saudi Arabia
+- id: 40
+  stage: group
+  group: H
+  team1: Cape Verde
+  team2: Uruguay
+- id: 41
+  stage: group
+  group: I
+  team1: France
+  team2: Norway
+- id: 42
+  stage: group
+  group: I
+  team1: Iraq
+  team2: Senegal
+- id: 43
+  stage: group
+  group: J
+  team1: Argentina
+  team2: Algeria
+- id: 44
+  stage: group
+  group: J
+  team1: Jordan
+  team2: Austria
+- id: 45
+  stage: group
+  group: K
+  team1: Portugal
+  team2: Uzbekistan
+- id: 46
+  stage: group
+  group: K
+  team1: DR Congo
+  team2: Colombia
+- id: 47
+  stage: group
+  group: L
+  team1: England
+  team2: Ghana
+- id: 48
+  stage: group
+  group: L
+  team1: Panama
+  team2: Croatia
+- id: 49
+  stage: group
+  group: A
+  team1: Czech Republic
+  team2: Mexico
+- id: 50
+  stage: group
+  group: A
+  team1: South Africa
+  team2: South Korea
+- id: 51
+  stage: group
+  group: B
+  team1: Switzerland
+  team2: Canada
+- id: 52
+  stage: group
+  group: B
+  team1: Bosnia and Herzegovina
+  team2: Qatar
+- id: 53
+  stage: group
+  group: C
+  team1: Scotland
+  team2: Brazil
+- id: 54
+  stage: group
+  group: C
+  team1: Morocco
+  team2: Haiti
+- id: 55
+  stage: group
+  group: D
+  team1: Turkey
+  team2: United States
+- id: 56
+  stage: group
+  group: D
+  team1: Paraguay
+  team2: Australia
+- id: 57
+  stage: group
+  group: E
+  team1: Ecuador
+  team2: Germany
+- id: 58
+  stage: group
+  group: E
+  team1: "Cura\xE7ao"
+  team2: Ivory Coast
+- id: 59
+  stage: group
+  group: F
+  team1: Tunisia
+  team2: Netherlands
+- id: 60
+  stage: group
+  group: F
+  team1: Japan
+  team2: Sweden
+- id: 61
+  stage: group
+  group: G
+  team1: New Zealand
+  team2: Belgium
+- id: 62
+  stage: group
+  group: G
+  team1: Egypt
+  team2: Iran
+- id: 63
+  stage: group
+  group: H
+  team1: Cape Verde
+  team2: Spain
+- id: 64
+  stage: group
+  group: H
+  team1: Uruguay
+  team2: Saudi Arabia
+- id: 65
+  stage: group
+  group: I
+  team1: Iraq
+  team2: France
+- id: 66
+  stage: group
+  group: I
+  team1: Senegal
+  team2: Norway
+- id: 67
+  stage: group
+  group: J
+  team1: Jordan
+  team2: Argentina
+- id: 68
+  stage: group
+  group: J
+  team1: Austria
+  team2: Algeria
+- id: 69
+  stage: group
+  group: K
+  team1: DR Congo
+  team2: Portugal
+- id: 70
+  stage: group
+  group: K
+  team1: Colombia
+  team2: Uzbekistan
+- id: 71
+  stage: group
+  group: L
+  team1: Panama
+  team2: England
+- id: 72
+  stage: group
+  group: L
+  team1: Croatia
+  team2: Ghana
+- team1_placeholder: Runner-up Group A
+  team2_placeholder: Runner-up Group B
+  id: 73
+  stage: KO_R32
+  match_num: 73
+- team1_placeholder: Winner Group E
+  team2_placeholder: 3rd Group A/B/C/D/F
+  id: 74
+  stage: KO_R32
+  match_num: 74
+- team1_placeholder: Winner Group F
+  team2_placeholder: Runner-up Group C
+  id: 75
+  stage: KO_R32
+  match_num: 75
+- team1_placeholder: Winner Group C
+  team2_placeholder: Runner-up Group F
+  id: 76
+  stage: KO_R32
+  match_num: 76
+- team1_placeholder: Winner Group I
+  team2_placeholder: 3rd Group C/D/F/G/H
+  id: 77
+  stage: KO_R32
+  match_num: 77
+- team1_placeholder: Runner-up Group E
+  team2_placeholder: Runner-up Group I
+  id: 78
+  stage: KO_R32
+  match_num: 78
+- team1_placeholder: Winner Group A
+  team2_placeholder: 3rd Group C/E/F/H/I
+  id: 79
+  stage: KO_R32
+  match_num: 79
+- team1_placeholder: Winner Group L
+  team2_placeholder: 3rd Group E/H/I/J/K
+  id: 80
+  stage: KO_R32
+  match_num: 80
+- team1_placeholder: Winner Group D
+  team2_placeholder: 3rd Group B/E/F/I/J
+  id: 81
+  stage: KO_R32
+  match_num: 81
+- team1_placeholder: Winner Group G
+  team2_placeholder: 3rd Group A/E/H/I/J
+  id: 82
+  stage: KO_R32
+  match_num: 82
+- team1_placeholder: Runner-up Group K
+  team2_placeholder: Runner-up Group L
+  id: 83
+  stage: KO_R32
+  match_num: 83
+- team1_placeholder: Winner Group H
+  team2_placeholder: Runner-up Group J
+  id: 84
+  stage: KO_R32
+  match_num: 84
+- team1_placeholder: Winner Group B
+  team2_placeholder: 3rd Group E/F/G/I/J
+  id: 85
+  stage: KO_R32
+  match_num: 85
+- team1_placeholder: Winner Group J
+  team2_placeholder: Runner-up Group H
+  id: 86
+  stage: KO_R32
+  match_num: 86
+- team1_placeholder: Winner Group K
+  team2_placeholder: 3rd Group D/E/I/J/L
+  id: 87
+  stage: KO_R32
+  match_num: 87
+- team1_placeholder: Runner-up Group D
+  team2_placeholder: Runner-up Group G
+  id: 88
+  stage: KO_R32
+  match_num: 88
+- team1_placeholder: Winner Match 74
+  team2_placeholder: Winner Match 77
+  id: 89
+  stage: KO_R16
+  match_num: 89
+- team1_placeholder: Winner Match 73
+  team2_placeholder: Winner Match 75
+  id: 90
+  stage: KO_R16
+  match_num: 90
+- team1_placeholder: Winner Match 76
+  team2_placeholder: Winner Match 78
+  id: 91
+  stage: KO_R16
+  match_num: 91
+- team1_placeholder: Winner Match 79
+  team2_placeholder: Winner Match 80
+  id: 92
+  stage: KO_R16
+  match_num: 92
+- team1_placeholder: Winner Match 83
+  team2_placeholder: Winner Match 84
+  id: 93
+  stage: KO_R16
+  match_num: 93
+- team1_placeholder: Winner Match 81
+  team2_placeholder: Winner Match 82
+  id: 94
+  stage: KO_R16
+  match_num: 94
+- team1_placeholder: Winner Match 86
+  team2_placeholder: Winner Match 88
+  id: 95
+  stage: KO_R16
+  match_num: 95
+- team1_placeholder: Winner Match 85
+  team2_placeholder: Winner Match 87
+  id: 96
+  stage: KO_R16
+  match_num: 96
+- team1_placeholder: Winner Match 89
+  team2_placeholder: Winner Match 90
+  id: 97
+  stage: KO_QF
+  match_num: 97
+- team1_placeholder: Winner Match 93
+  team2_placeholder: Winner Match 94
+  id: 98
+  stage: KO_QF
+  match_num: 98
+- team1_placeholder: Winner Match 91
+  team2_placeholder: Winner Match 92
+  id: 99
+  stage: KO_QF
+  match_num: 99
+- team1_placeholder: Winner Match 95
+  team2_placeholder: Winner Match 96
+  id: 100
+  stage: KO_QF
+  match_num: 100
+- team1_placeholder: Winner Match 97
+  team2_placeholder: Winner Match 98
+  id: 101
+  stage: KO_SF
+  match_num: 101
+- team1_placeholder: Winner Match 99
+  team2_placeholder: Winner Match 100
+  id: 102
+  stage: KO_SF
+  match_num: 102
+- id: 103
+  stage: KO_3RD
+  match_num: 103
+  team1_placeholder: Loser Match 101
+  team2_placeholder: Loser Match 102
+- id: 104
+  stage: KO_FINAL
+  match_num: 104
+  team1_placeholder: Winner Match 101
+  team2_placeholder: Winner Match 102
